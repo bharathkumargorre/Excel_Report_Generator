@@ -1,0 +1,13 @@
+Month,Product,Category,Quantity,Price
+January,Laptop,Electronics,2,50000
+January,Mouse,Electronics,5,700
+January,Chair,Furniture,4,3500
+February,Laptop,Electronics,1,50000
+February,Keyboard,Electronics,3,1500
+February,Table,Furniture,2,6000
+March,Book,Stationery,10,300
+March,Pen,Stationery,20,20
+March,Notebook,Stationery,15,100
+April,Laptop,Electronics,3,50000
+April,Chair,Furniture,2,3500
+April,Book,Stationery,5,300
